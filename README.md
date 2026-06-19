@@ -16,8 +16,8 @@ A passionate Accounting and Taxation student dedicated to bridging the gap betwe
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/syafiradaniela](#) *(Ganti dengan link LinkedIn-mu)*
-- **Email:** syafira.daniela@example.com *(Ganti dengan email profesionalmu)*
+- **LinkedIn:** [www.linkedin.com/in/syafira-daniela-nahuway-1706a1327] *(Ganti dengan link LinkedIn-mu)*
+- **Email:** syafirafira08162@gmail.com *(Ganti dengan email profesionalmu)*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=miyuraaa1001&show_icons=true&theme=dark" alt="Syafira's GitHub Stats" />
